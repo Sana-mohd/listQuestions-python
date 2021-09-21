@@ -1,5 +1,5 @@
-list1 = ["M", "na", "i", "Ke"] 
-list2 = ["y", "me", "s", "lly"]
+list1 = ["M", "na", "i", "sa"] 
+list2 = ["y", "me", "s", "na"]
 list=[]
 i=0
 while i<len(list1):

@@ -8,7 +8,7 @@ while i<len(t):
     while j<len(s):
         b=s[j]
         if a==b:
-            f=f+a
+            f+=a
         j=j+1
     i=i+1
 print(f)
